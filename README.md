@@ -1,2 +1,3 @@
-# Hospital-Data-analysis-Dashboard
-I developed a comprehensive project in Excel, creating multiple dashboard and tables to analyze the data. This process involved several stages,including data preprocessing, data cleaning, and data visualization.
+# Hospital-Emergency-Room-Data-Analysis (Interactive Dashboard creation using MS Excel)
+## Project Objective
+I create a hospital emergency room dashboard data analysis for 2023 2024. so that, so the management of the hospital can manage the patient very well.
