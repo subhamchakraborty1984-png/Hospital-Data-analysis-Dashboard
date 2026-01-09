@@ -12,7 +12,7 @@ We need to create a Hospital Emergency Room Analysis Dashboard in EXCEL to impro
 
 -Department Referrals: Check which departments patients are referred to the most.
 
-Dashboard Interaction <a href= "https://github.com/subhamchakraborty1984-png/Hospital-Data-analysis-Dashboard/blob/main/FInal%20Dashboard%20of%20Hospital%20Emergency%20Room.jpg">view Dashboard</a>
+Dashboard Interaction <a href= "https://github.com/subhamchakraborty1984-png/Hospital-Data-analysis-Dashboard/blob/main/hospital%20emegency%20data%20analysis.xlsx">view Dashboard</a>
 
 ## Process
 
