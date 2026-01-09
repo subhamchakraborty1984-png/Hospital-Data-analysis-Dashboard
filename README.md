@@ -11,7 +11,6 @@ Timeliness: Measure the percentage of patients seen within 30 minutes.
 Gender Analysis: Display the number of patients by gender. 
 
 Department Referrals: Check which departments patients are referred to the most.
-<img width="1564" height="488" alt="image" src="https://github.com/user-attachments/assets/a6130a62-366c-4ecd-918a-b2dd2a4f5ae1" />
 
 
 
